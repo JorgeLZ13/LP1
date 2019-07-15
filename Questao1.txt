@@ -1,0 +1,6 @@
+1) a) Classe é uma forma de estrutura que pode conter atributos e métodos, ela da a característica aos objetos. Objeto é uma instância, onde nele tem metodos e atributos da classe.
+
+b) São métodos especiais invocados no momento da criação dos objetos. Para utilizar o construtor é preciso criar um objeto e caso não coloque nenhum parâmetro o construtor padrão é invocado;
+
+c) Encapsulamento é a forma com que você restringe os metodos e atributos do seu usuário da classe.
+EX: Jorge não precisa saber como a impressora joga a tinta na folha, ele apenas precisa imprimir.

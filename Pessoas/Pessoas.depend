@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\jorge luiz\desktop\c++\pessoas\main.cpp
+	<iostream>
+
+1562815457 source:c:\users\jorge luiz\desktop\c++\pessoas\src\pessoas.cpp
+	<iostream>
+	<string.h>
+	"Pessoas.h"
+
+1562815150 c:\users\jorge luiz\desktop\c++\pessoas\include\pessoas.h
+

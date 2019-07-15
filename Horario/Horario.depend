@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1563023846 source:c:\users\jorge luiz\desktop\c++\horario\main.cpp
+	<iostream>
+	"Horario.h"
+
+1563023972 source:c:\users\jorge luiz\desktop\c++\horario\src\horario.cpp
+	"Horario.h"
+
+1563023190 c:\users\jorge luiz\desktop\c++\horario\include\horario.h
+
